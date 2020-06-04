@@ -4,7 +4,10 @@ Este proyecto consiste en un sistema con micrófono que mediante una matriz LED 
 En el repositorio puedes encontrar:
 
 - [Memoria del proyecto](Memoria.pdf)
-- [Código Arduino](pmv.ino)
+- [Código de Arduino](pmv.ino)
+- [Imágenes del proyecto](imagenesproyecto.pdf)
+- [Imágenes del diseño](imagenestinkercad.pdf)
+- [Archivo STL con el diseño](imagenesproyecto.pdf)
 - [Esquema electrónico](completoelectrónico.png)
 - [Esquema protoboard](Completoprotoboard.png)
 - [Esquema en formato fritzing](Completo.fzz)
