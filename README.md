@@ -5,4 +5,6 @@ En el repositorio puedes encontrar:
 
 - [Memoria del proyecto](Memoria.pdf)
 - [Código Arduino](pmv.ino)
+- [Esquema electrónico](completoelectrónico.png)
+- [Esquema protoboard](Completoprotoboard.png)
 - [Esquema en formato fritzing](Completo.fzz)
