@@ -1,1 +1,1 @@
-# Medidor-de-ruido
+# Medidor de ruido
