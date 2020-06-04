@@ -7,7 +7,7 @@ En el repositorio puedes encontrar:
 - [Código de Arduino](pmv.ino)
 - [Imágenes del proyecto](imagenesproyecto.pdf)
 - [Imágenes del diseño](imagenestinkercad.pdf)
-- [Archivo STL con el diseño](imagenesproyecto.pdf)
+- [Archivo STL con el diseño](Diseño.stl)
 - [Esquema electrónico](completoelectrónico.png)
 - [Esquema protoboard](Completoprotoboard.png)
 - [Esquema en formato fritzing](Completo.fzz)
