@@ -11,3 +11,7 @@ En el repositorio puedes encontrar:
 - [Esquema electrónico](completoelectronico.png)
 - [Esquema protoboard](Completoprotoboard.png)
 - [Esquema en formato fritzing](Completo.fzz)
+
+
+## Licencia
+Este proyecto fue desarrollado durante el curso 2019/2020 en el IES Vicente Aleixandre de Sevilla en 1º de Bachillerato de ciencias tecnológicas por Candela Esparrica, Jesús Aznar y Paula Sánchez, con el apoyo de su profesor Jose Pujol.
