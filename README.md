@@ -14,4 +14,4 @@ En el repositorio puedes encontrar:
 
 
 ## Licencia
-Este proyecto fue desarrollado durante el curso 2019/2020 en el IES Vicente Aleixandre de Sevilla en 1º de Bachillerato de ciencias tecnológicas por Candela Esparrica, Jesús Aznar y Paula Sánchez, con el apoyo de su profesor Jose Pujol.
+Este proyecto fue desarrollado durante el curso 2019/2020 en el IES Vicente Aleixandre de Sevilla en 1º de Bachillerato de ciencias tecnológicas por Candela Esparrica, Jesús Aznar y Paula Sánchez, con el apoyo de su profesor Jose Pujol. Se distribuye con licencia [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)
