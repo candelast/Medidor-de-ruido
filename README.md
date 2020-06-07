@@ -3,7 +3,7 @@ Este proyecto consiste en un sistema con micrófono que mediante una matriz LED 
 
 Toda la información viene desarrollada con detenimiento en nuestra [web](https://sites.google.com/s/1vBFadeGl5x-XgfKjlWXds2vYGl7ohzhz/p/1AbEx5slbOjCMbwPZxb8ySBt4Kg2kz8tw/edit#).
 
-https://raw.githubusercontent.com/candelast/Medidor-de-ruido/master/DiseñoTinkerCAD.png
+![Imagen del proyecto](https://raw.githubusercontent.com/candelast/Medidor-de-ruido/master/DiseñoTinkerCAD.png)
 
 En el repositorio puedes encontrar:
 
