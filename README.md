@@ -1,7 +1,7 @@
 # Medidor de ruido
 Este proyecto consiste en un sistema con micrófono que mediante una matriz LED relfeja la cantidad de ruido ambiente: cuanto más ruido haya, más filas de LEDs se encenderán.
 
-Toda la información viene desarrollada con detenimiento en nuestra [web](https://sites.google.com/s/1vBFadeGl5x-XgfKjlWXds2vYGl7ohzhz/p/1AbEx5slbOjCMbwPZxb8ySBt4Kg2kz8tw/edit#)
+Toda la información viene desarrollada con detenimiento en nuestra [web](https://sites.google.com/s/1vBFadeGl5x-XgfKjlWXds2vYGl7ohzhz/p/1AbEx5slbOjCMbwPZxb8ySBt4Kg2kz8tw/edit#).
 
 En el repositorio puedes encontrar:
 
@@ -9,7 +9,8 @@ En el repositorio puedes encontrar:
 - [Código de Arduino](pmv.ino)
 - [Imágenes del proyecto](imagenesproyecto.pdf)
 - [Imágenes del diseño](imagenestinkercad.pdf)
-- [Archivo STL con el diseño](Diseño.stl)
+- [Archivo STL con la carcasa](carcasa.stl)
+- [Archivo STL con la tapa](tapa.stl)
 - [Esquema electrónico](completoelectronico.png)
 - [Esquema protoboard](Completoprotoboard.png)
 - [Esquema en formato fritzing](Completo.fzz)
